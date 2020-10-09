@@ -4,18 +4,26 @@
 body,html{
     margin: 0;
     padding: 0;
+    margin: 0;
+    padding: 0;
+    background-color: #9f0505;
 }
 
 
 main{
-    width: 100vw;
+    padding: 40px;
+    margin: 40px;
+    width: calc(100vw - 80px);
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 5px 1px #00000036;
+
 }
 #cover{
  height: 100vh;
  background-image: url(./img/cover.jpg);
  background-size: cover;
  background-repeat: no-repeat;
- background-position: center;
+ background-position-y: -50px;
 }
 
 .nav{
@@ -27,7 +35,7 @@ main{
 
 .nav a{
     text-decoration: none;
-    color:rgb(2 255 255);
+    color:rgb(255 230 108);
     font-weight: 900;
     font-size: 30px;
     padding: 10px;
@@ -63,7 +71,8 @@ img{
 .title{
     text-align: center;
     font-weight: 900;
-    color: #02ffff;
     font-size: 50px;
     margin-bottom: 0;
 }
+
+
