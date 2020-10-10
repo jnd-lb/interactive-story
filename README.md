@@ -1,4 +1,15 @@
+
 # Escape The Prairie Gate 
+
+ It's and interactive story built using Html, Css.
+ Currenly a rough prototype is available. 
+
+ ### Expectations
+ Graphic: In the next versions more details will be added to illustrations as well as animation. 
+ Layout will be changed to a flipping pages.
+
+ Stay tuned.
+ 
 
 2020 has been very unpredictabile and challenging.With the economic crisis and COVID-19 pendamic many young people has lost their jobs and Ali was one of the many young people who lost their jobs. 
 
